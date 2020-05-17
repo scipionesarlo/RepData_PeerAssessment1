@@ -234,4 +234,4 @@ xyplot(steps ~ interval | typeofday, stepsBy5minDayNArepMean, type = "l", layout
        xlab = "Interval", ylab = "Number of steps", main="Time series plot of the 5-minute interval \nand the average number of steps taken, \naveraged across all weekday days or weekend days")
 ```
 
-__Post Scriptum (to all cheaters' hunters)__: _I have done this assignment last year in August 2015, although I never finished the Reproducible Research Course._ 
+__Post Scriptum (to all cheaters' hunters)__: _I have done this assignment for the first time in August 2015, then in april 2016, although I never finished the Reproducible Research Course. This year I dediced to enroll again the Course, so I re-used my work._ 
